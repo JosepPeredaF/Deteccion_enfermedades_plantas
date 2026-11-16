@@ -6,7 +6,7 @@ venv/
 .env
 .DS_Store
 
-# Datasets (pesan mucho)
+# Datasets 
 data/
 PlantVillage/
 PlantDoc/
